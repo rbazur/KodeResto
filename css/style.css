@@ -27,3 +27,12 @@ img {
 #contact {
   background: url(../img/map.jpg);
 }
+
+#footer ul a {
+  color: #262626;
+  text-decoration: none;
+}
+
+#footer ul a:hover {
+  color: #17a2b8;
+}
