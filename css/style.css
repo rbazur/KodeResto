@@ -1,0 +1,20 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+#mainMenu .nav-link {
+  color: #17a2b8;
+}
+
+#mainMenu .nav-link:hover {
+  background: #17a2b8;
+  color: #333;
+  border-radius: 5px;
+}
+
+#mainMenu .nav-link.active {
+  background: #17a2b8;
+  color: #333;
+  border-radius: 5px;
+}
