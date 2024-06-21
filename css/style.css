@@ -18,3 +18,8 @@ img {
   color: #333;
   border-radius: 5px;
 }
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: #262626;
+}
